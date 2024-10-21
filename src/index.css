@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+  color:azure
+}
+
+body{
+  background-color: black;
+}
+
+#taskList::-webkit-scrollbar{
+  display: none;
+}
